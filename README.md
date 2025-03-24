@@ -1,9 +1,3 @@
-Результат работы приложения до изменений:
-![image](https://github.com/user-attachments/assets/c7b3b086-49e6-4aca-83fc-a5fe3875774d)
-
-Результат работы приложения после изменений:
-![image](https://github.com/user-attachments/assets/0b3eeaf4-e230-440b-bb97-bfd9db83bb8a)
-
 Результат обозревателя тестов:
 ![image](https://github.com/user-attachments/assets/949df82e-b0c8-4ef4-aa96-79b97b9e2e87)
 
